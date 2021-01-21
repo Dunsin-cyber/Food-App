@@ -1,0 +1,12 @@
+{
+  "name": "calvaryapp1.2",
+  "displayName": "calvaryapp1.2",
+  "expo": {
+    "name": "calvaryapp1.2",
+    "slug": "calvaryapp1.2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
